@@ -32,12 +32,12 @@ IPC 84 in Simple Words:
 
 Description of IPC Section 90:
 
-    According to section 90 of Indian penal code, A consent is not such a consent as is intended by any section of this Code, if the consent is given by a person under fear of injury, or under a misconception of fact, and if the person doing the act knows, or has reason to believe, that the consent was given in consequence of such fear or misconception; or Consent of insane personif the consent is given by a person who, from unsoundness of mind, or intoxication, is unable to understand the nature and consequence of that to which he gives his consent; or Consent of child unless the contrary appears from the context, if the consent is given by a person who is under twelve years of age.
+    According to section 90 of Indian penal code, A consent is not such a consent as is intended by any section of this Code, if the consent is given by a person     under fear of injury, or under a misconception of fact, and if the person doing the act knows, or has reason to believe, that the consent was given in            consequence of such fear or misconception; or Consent of insane personif the consent is given by a person who, from unsoundness of mind, or intoxication, is     unable to understand the nature and consequence of that to which he gives his consent; or Consent of child unless the contrary appears from the context, if     the consent is given by a person who is under twelve years of age.
 
 
 IPC 90 in Simple Words:
 
-    In simple words, Section 90 of the Indian Penal Code states that certain types of consent are not considered valid, such as consent given under fear, misconception, by an insane person, or by a child under twelve years old.   
+    In simple words, Section 90 of the Indian Penal Code states that certain types of consent are not considered valid, such as consent given under fear,             misconception, by an insane person, or by a child under twelve years old.   
 
 
 
