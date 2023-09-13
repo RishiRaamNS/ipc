@@ -531,6 +531,7 @@ OFFENCES AFFECTING THE PUBLIC HEALTH, SAFETY, CONVENIENCE,DECENCY AND MORALS
 268- Public nuisance
 
 Description of IPC Section 268
+
     According to section 268 of Indian penal code, A person is guilty of a public nuisance who does any act or is guilty of an illegal omission which causes any common injury, danger or annoyance to the public or to the people in general who dwell or occupy property in the vicinity, or which must necessarily cause injury, obstruction, danger or annoyance to persons who may have occasion to use any public right.
     A common nuisance is not excused on the ground that it causes some convenience or advantage.
 
@@ -580,6 +581,7 @@ IPC 279 in Simple Words
 286-Negligent conduct with respect to explosive substance
 
 Description of IPC Section 286
+
     According to section 286 of Indian penal code, Whoever does, with any explosive substance, any act so rashly or negligently as to endanger human life, or to be likely to cause hurt or injury to any other person, or knowingly or negligently omits to take such order with any explosive substance in his possession as is sufficient to guard against any probable danger to human life from that substance, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine which may extend to one thousand rupees, or with both.
 
 
