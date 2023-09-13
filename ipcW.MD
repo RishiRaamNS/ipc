@@ -432,22 +432,26 @@ IPC 195A in Simple Words
 202- Intentional omission to give information of offence by person bound to inform.
 
 Description of IPC Section 202
-    According to section 202 of Indian penal code, Whoever, knowing or having reason to believe that an offence has been committed, intentionally omits to give any information respecting that offence which he is legally bound to give, shall be punished with imprisonment of either description for a term which may extend to six months, or with fine, or with both.
+
+    According to section 202 of Indian penal code, Whoever, knowing or having reason to believe that an offence has been committed, intentionally omits to give     any information respecting that offence which he is legally bound to give, shall be punished with imprisonment of either description for a term which may         extend to six months, or with fine, or with both.
 
 
 IPC 202 in Simple Words
-    In simple words, Section 202 of the Indian Penal Code states that if someone fails to provide information about an offense they know or believe has been committed, which they are legally obligated to provide, they can be punished with imprisonment up to six months, or fined, or both.
+
+    In simple words, Section 202 of the Indian Penal Code states that if someone fails to provide information about an offense they know or believe has been     committed, which they are legally obligated to provide, they can be punished with imprisonment up to six months, or fined, or both.
 
 
 
 204-Destruction of document to prevent its production as evidence
 
 Description of IPC Section 204
+
     According to section 204 of Indian penal code, Whoever secrets or destroys any document which he may be lawfully compelled to produce as evidence in a Court of Justice, or in any proceeding lawfully held before a public servant, as such, or obliterates or renders illegible the whole or any part of such document with the intention of preventing the same from being produced or used as evidence before such Court or public servant as aforesaid, or after he shall have been lawfully summoned or required to produce the same for that purpose, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
 
 
 
 IPC 204 in Simple Words
+
     In simple words, Section 204 of the Indian Penal Code states that if someone hides, destroys, or alters a document that they are legally required to present as evidence in court or before a public servant to prevent its use, they can be punished with imprisonment up to two years, or fined, or both.
 
 
@@ -455,10 +459,12 @@ IPC 204 in Simple Words
 206-Fraudulent removal or concealment of property to prevent its seizure as forfeited or in execution
 
 Description of IPC Section 206
+
     According to section 206 of Indian penal code, Whoever fraudulently removes, conceals, transfers or delivers to any person any property or any interest therein, intending thereby to prevent that property or interest therein from being taken as a forfeiture or in satisfaction of a fine, under a sentence which has been pronounced, or which he knows to be likely to be pronounced, by a Court of Justice or other competent authority, or from being taken in execution of a decree or order which has been made, or which he knows to be likely to be made by a Court of Justice in a civil suit, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both.
 
 
 IPC 206 in Simple Words
+
     In simple words, Section 206 of the Indian Penal Code states that if someone fraudulently removes, conceals, transfers, or delivers property to prevent it from being taken as forfeiture or in satisfaction of a fine or court order, they can be punished with imprisonment up to two years, or fined, or both.
 
 
@@ -471,6 +477,7 @@ Description of IPC Section 209
 
 
 IPC 209 in Simple Words
+
     In simple words, Section 209 of the Indian Penal Code states that if someone makes a false claim in a Court of Justice with the intention to deceive or harm someone, they can be punished with imprisonment up to two years and fined.
 
 
@@ -478,12 +485,14 @@ IPC 209 in Simple Words
 211-False charge of offence made with intent to injure
 
 Description of IPC Section 211
+
     According to section 211 of Indian penal code, Whoever, with intent to cause injury to any person, institutes or causes to be instituted any criminal proceeding against that person, or falsely charges any person with having committed an offence, knowing that there is no just or lawful ground for such proceeding or charge against that person, shall be punished with imprisonment of either description for a term which may extend to two years, or with fine, or with both;
 
     and if such criminal proceeding be instituted on a false charge of an offence punishable with death imprisonment for life, or imprisonment for seven years or upwards, shall be punishable with imprisonment of either description for a term which may extend to seven years, and shall also be liable to fine.
 
 
 IPC 211 in Simple Words
+
     In simple words, Section 211 of the Indian Penal Code states that if someone falsely institutes a criminal proceeding against another person with the intent to cause injury, knowing there is no just reason for it, they can be punished with imprisonment up to two years, or fined, or both; and if the false charge is for a serious offense punishable with death, life imprisonment, or imprisonment for seven years or more, they can be punished with imprisonment up to seven years, and fined.
 
 
